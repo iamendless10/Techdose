@@ -6,33 +6,10 @@ Welcome to the **TechDose Questions Solving** repository! This project is dedica
 
 In this repository, you'll find solutions to a range of coding problems categorized by difficulty and topic. Each solution is accompanied by a detailed explanation and, where necessary, additional comments in the code.
 
-## 🗂️ Folder Structure
 
+## 🛠️ Languages Used
 
-- **Easy**: Solutions to beginner-level problems. 🟢
-- **Medium**: Solutions to intermediate-level problems. 🟡
-- **Hard**: Solutions to advanced-level problems. 🔴
-
-## 📋 Problem List
-
-### Easy 🟢
-
-- [Problem 1: Two Sum](./Easy/problem1.md)
-- [Problem 2: Reverse Linked List](./Easy/problem2.md)
-
-### Medium 🟡
-
-- [Problem 1: Longest Substring Without Repeating Characters](./Medium/problem1.md)
-- [Problem 2: Merge Intervals](./Medium/problem2.md)
-
-### Hard 🔴
-
-- [Problem 1: Median of Two Sorted Arrays](./Hard/problem1.md)
-- [Problem 2: Trapping Rain Water](./Hard/problem2.md)
-
-## 🛠️ Technologies Used
-
-- **Languages**: Python, Java, C++
+- **Languages**: C++💕
 - **Tools**: VS Code, Git
 - **Version Control**: GitHub
 
